@@ -32,7 +32,23 @@ ICT Expert | Software Developer | Service Support Specialist
 ![Dialog](screenshots/approval.png)
 
 ## Butikk
+### Login Page
+![Login](screenshots/login.png)
 
+### Dashboard
+![Main Dashboard](screenshots/home.png)
+
+### Plucker Registration
+![View Plucker Form](screenshots/plucker-reg.png)
+
+### Factory & Grower Registration
+![View Factory | Grower Form](screenshots/receipt.png)
+
+### Reports
+![View Reports](screenshots/statement.png)
+
+### Payment summaries
+![View](screenshots/approval.png)
 ---
 
 ## Status

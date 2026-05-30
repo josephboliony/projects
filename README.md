@@ -4,13 +4,15 @@ ICT Expert | Software Developer | Service Support Specialist
 
 ## Skills
 - Java
-- SQL
+- MySQL
 - Django
 - Python
 - IT Support
+## Projects
+- ScoolApp - School Management System
+- Butikk - Tea Collection Management System
 ## Screenshots
 ## 1. ScoolApp
-
 ### Login Page
 ![Login](screenshots/login.png)
 
@@ -26,15 +28,12 @@ ICT Expert | Software Developer | Service Support Specialist
 ### Approval Dialog
 ![Dialog](screenshots/approval.png)
 
+## Butikk
 
 ---
 
 ## Status
 Deployed and operational.
-
-## Projects
-- ScoolApp - School Management System
-- Butikk - Tea Collection Management System
 
 ## Contact
 Email: joseph.boliony@gmail.com

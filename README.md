@@ -12,10 +12,10 @@ ICT Expert | Software Developer | Service Support Specialist
 ## 1. ScoolApp
 
 ### Login Page
-![Login](screenshots/login scoolapp.png)
+![Login](screenshots/login%scoolapp.png)
 
 ### Dashboard
-![Dashboard](screenshots/home 2.png)
+![Dashboard](screenshots/home%2.png)
 
 ### Fees Module -making payments
 ![Fees](screenshots/payments.png)
@@ -28,7 +28,7 @@ ICT Expert | Software Developer | Service Support Specialist
 
 ## 2. ScoolApp
 ### Dashboard
-![Dashboard](screenshots/home 2.png)
+![Dashboard](screenshots/home%2.png)
 
 ### Fees Module -making payments
 ![Fees](screenshots/payments.png)

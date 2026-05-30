@@ -36,28 +36,28 @@ ICT Expert | Software Developer | Service Support Specialist
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Main Dashboard](screenshots/home.png)
+![Main Dashboard](screenshots/home.PNG)
 
 ### Plucker Registration
 ![View Plucker Form](screenshots/plucker-reg.png)
 
 ### Factory & Grower Registration
-![View Factory | Grower Form](screenshots/factory-grower-registration-form.png)
+![View Factory | Grower Form](screenshots/factory-grower-registration-form.PNG)
 
 ### Advance Payments
 ![View Advance Form](screenshots/advance.png)
 
-### EWeight Capture
+### Weight Capture
 ![View Weight Capture Form](screenshots/weight.png)
 
 ### Reports
 ![View Monthly Reports](screenshots/monthly-reports.png)
-![View All](screenshots/all-records.png)
-![View Grower Summary Reports](screenshots/grower-monthly-summary.png)
-![View Payment Summary](screenshots/payment-summarys.png)
+![View All](screenshots/all-records.PNG)
+![View Grower Summary Reports](screenshots/grower-monthly-summary.PNG)
+![View Payment Summary](screenshots/payment-summary.png)
 ### Factory & Grower Registration
-![View Summary Report](screenshots/summary-report.png)
-![Reports](screenshots/reports.png)
+![View Summary Report](screenshots/summary-reports.png)
+![Reports](screenshots/reports.PNG)
 
 ---
 

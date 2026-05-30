@@ -19,14 +19,14 @@ ICT Expert | Software Developer | Service Support Specialist
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Fees Module -making payments
-![Fees](screenshots/payment.png)
+### Fee payment
+![Form](screenshots/payment.png)
 
 ### Receipt
 ![Receipt sample](screenshots/receipt.png)
 
-### Fee Statements
-![Satetement](screenshots/statement.png)
+### Fee Statement
+![Statement](screenshots/statement.png)
 
 ### Approval Dialog
 ![Dialog](screenshots/approval.png)
@@ -44,8 +44,8 @@ ICT Expert | Software Developer | Service Support Specialist
 ### Factory & Grower Registration
 ![View Factory | Grower Form](screenshots/factory-grower-registration-form.PNG)
 
-### Advance Payments
-![View Advance Form](screenshots/advance.png)
+### Advance Payment
+![View Advance Form](screenshots/advance.PNG)
 
 ### Weight Capture
 ![View Weight Capture Form](screenshots/weight.png)

@@ -12,32 +12,21 @@ ICT Expert | Software Developer | Service Support Specialist
 ## 1. ScoolApp
 
 ### Login Page
-![Login](screenshots/login%scoolapp.png)
+![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/home%2.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Fees Module -making payments
-![Fees](screenshots/payments.png)
+![Fees](screenshots/payment.png)
 
 ### Fee Statements
-![Satetement](screenshots/statements2.png)
+![Satetement](screenshots/statement.png)
 
-###Dialog
-![Dialog/confirmation](screenshots/confirmation.png)
+### Approval Dialog
+![Dialog](screenshots/approval.png)
 
-## 2. ScoolApp
-### Dashboard
-![Dashboard](screenshots/home%2.png)
 
-### Fees Module -making payments
-![Fees](screenshots/payments.png)
-
-### Fee Statements
-![Satetement](screenshots/statements2.png)
-
-###Dialog
-![Dialog/confirmation](screenshots/confirmation.png)
 ---
 
 ## Status

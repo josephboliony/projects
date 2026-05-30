@@ -42,13 +42,23 @@ ICT Expert | Software Developer | Service Support Specialist
 ![View Plucker Form](screenshots/plucker-reg.png)
 
 ### Factory & Grower Registration
-![View Factory | Grower Form](screenshots/receipt.png)
+![View Factory | Grower Form](screenshots/factory-grower-registration-form.png)
+
+### Advance Payments
+![View Advance Form](screenshots/advance.png)
+
+### EWeight Capture
+![View Weight Capture Form](screenshots/weight.png)
 
 ### Reports
-![View Reports](screenshots/statement.png)
+![View Monthly Reports](screenshots/monthly-reports.png)
+![View All](screenshots/all-records.png)
+![View Grower Summary Reports](screenshots/grower-monthly-summary.png)
+![View Payment Summary](screenshots/payment-summarys.png)
+### Factory & Grower Registration
+![View Summary Report](screenshots/summary-report.png)
+![Reports](screenshots/reports.png)
 
-### Payment summaries
-![View](screenshots/approval.png)
 ---
 
 ## Status

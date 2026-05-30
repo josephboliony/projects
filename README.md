@@ -22,6 +22,9 @@ ICT Expert | Software Developer | Service Support Specialist
 ### Fees Module -making payments
 ![Fees](screenshots/payment.png)
 
+### Receipt
+![Receipt sample](screenshots/receipt.png)
+
 ### Fee Statements
 ![Satetement](screenshots/statement.png)
 
